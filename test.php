@@ -1,3 +1,3 @@
 <?php
 
-echo'Ths is test';
+echo'Ths is test binago ko na weere';
